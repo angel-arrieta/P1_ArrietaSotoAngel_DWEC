@@ -41,7 +41,7 @@ Al buscar información sobre otros gestores de pagos, he encontrado el gestor Sa
     - Además, podrá editar los nombres de los conceptos de pago, agregar nuevos conceptos o eliminar antiguos.
     - También podrá ajustar las cuantías de cada concepto según lo que se decida para las diferentes actividades o cuotas.
 
-## Investigación de tecnologías y herramientas para Desarrollo el Web
+## Investigación de tecnologías y herramientas para Desarrollo en Web
 
 Tras haber descrito mi programa de la forma más ideal, me dispongo a realizar un analisis de las herramientas que puedo disponer para llevar a cabo el proyecto.
 
